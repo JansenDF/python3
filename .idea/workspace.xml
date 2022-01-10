@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bcdf90d7-7bd4-4a62-b299-3435c8c9c1f9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula3/aula3.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula3/aula3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="23Vw2m5LFnWEtC9idxCA87RoK3i" />
   <component name="ProjectViewState">
